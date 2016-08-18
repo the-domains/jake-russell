@@ -12,5 +12,9 @@ color:
     - '#002F2F'
 layout_spectrum: 0.40025022719055414
 name: Jake Russell
+navigation:
+  - name: Client
+    url: client.jakerussell.co
+    type: external
 title: Home
 description: A place
